@@ -1,4 +1,4 @@
-SHELL := /bin/bash 
+SHELL := /bin/bash
 .SILENT:
 .PHONY: git-has-pushed git-is-clean assets
 
